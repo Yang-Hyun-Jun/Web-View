@@ -14,7 +14,7 @@ st.set_page_config(
 # with st.spinner(text="페이지 로딩중..."):
 #     sleep(2)
 
-image_path = '/home/hyunjun/workspace/beta_GAS/Silentist.png'
+image_path = 'images/Silentist.png'
 
 st.image(image_path, width=300)
 
